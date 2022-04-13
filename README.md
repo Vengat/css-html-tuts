@@ -11,8 +11,12 @@ HTML Basics
 <p>My name is Vengat</p>
 <!DOCTYPE html>   # informs the browser that the document type is html
 <html>  # informs the browser that the document type is HTML
-<head>  # put content here that visitors shouldnt see
+<head>  # put content here that visitors shouldnt see Eg link to javascript or stylesheet files
     <meta charset="utf-8">
     <title>Title</title>
 </head>
+<body>
+</body>
+</html>
+
 
