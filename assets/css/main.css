@@ -1,0 +1,17 @@
+body {
+    background-color: lightseagreen;
+}
+
+body > div {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+}
+
+.example-class {
+    background-color: orange;
+}
+
+#example {
+    background-color: red;
+}
