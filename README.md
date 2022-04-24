@@ -67,7 +67,16 @@ Margin Edge
 |
 |--------------------------------------
 
+# CSS Specificity
+- Specificity is super important with css
+    0. Type selectors (eg h1, div, header, p)
+    1. Class selectors 
+    2. ID selectors
 
 
+- This qualifies the direct sibling h4 of h3
 
-
+#second-example h3+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: indianred;
+}
