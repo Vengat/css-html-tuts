@@ -1,0 +1,28 @@
+.green {
+    color: green;
+}
+.red {
+    color: red;
+    background: grey;
+}
+#title {
+    font-size: 40px;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+span {
+    text-transform: uppercase;
+}
+body {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5em;
+}
+div {
+    color: cadetblue;
+    border: 3px solid black;
+}
+* {
+    background: blanchedalmond;
+}

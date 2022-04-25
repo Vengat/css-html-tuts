@@ -1,0 +1,7 @@
+body {
+    color: red;
+}
+/* external css < internal css < inline css */
+h1, h2 {
+    color: blue;
+}

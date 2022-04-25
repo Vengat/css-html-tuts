@@ -1,0 +1,26 @@
+/* color properties */
+/* color background color */
+/* RGB RED GREEN BLUE 0-255 */
+#first {
+    color: rgb(100, 123, 56);
+    /* background-color: chocolate; */
+    background: rgba(0, 0, 0, 0.5);
+}
+#second {
+    color: rgb(45, 10, 34);
+    background: rgba(0, 0, 0, 0.15);
+}
+#three {
+    color: rgb(220, 20, 60);
+    background: rgba(0, 0, 0, 0);
+}
+#four {
+    color: rgb(245, 245, 220);
+    background: rgba(0, 0, 0, 1);
+}
+body {
+    background: rgba(10, 150, 200, 0.15);
+}
+* {
+    color: antiquewhite;
+}

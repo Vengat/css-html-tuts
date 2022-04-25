@@ -1,0 +1,15 @@
+/* Element Selectors */
+#title {
+    color: green;
+    background: black;
+}
+#subheading {
+    color: red;
+    background: gray;
+}
+h2 {
+    color: green;
+}
+p {
+    color: grey;
+}
