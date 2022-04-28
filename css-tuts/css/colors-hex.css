@@ -1,0 +1,24 @@
+/* 
+HSL
+HEX values #RRGGBB
+123456789 A(10) B(11) C(12) D(13) E(14) F(15)
+*/
+#first {
+    color: #ff0000;
+    background: #000000;
+}
+#second {
+    color: #fff;
+    background: #00FF00;
+}
+#three {
+    color: #0000ff;
+    background: #e37f63a0;
+}
+#four {
+    color: #ff2faa;
+    background: #fabcdf;
+}
+body {
+    background: #40916c;
+}

@@ -1,0 +1,32 @@
+/* font-size, width, height, pixels */
+/* h1 {
+    font-size: 60px;
+    width: 200px;
+    background: blue;
+    height: 300px;
+} */
+.outer {
+    width: 200px;
+    height: 200px;
+    background: blue;
+}
+.inner {
+    width: 50%;
+    height: 50%;
+    background: red;
+}
+/*
+em - RELATIVE depends on parent
+1em = 16px default browser style;
+1em = base value 
+ */ 
+.relative {
+    /* font-size: 2em; */
+    font-size: 2rem;
+}
+.absolute {
+    font-size: 32px;
+}
+div {
+    font-size: 40px;
+}
