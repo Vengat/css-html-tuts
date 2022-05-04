@@ -1,0 +1,23 @@
+/* 
+Default display property
+Block : Always starts a new line and takes full width
+Inline : Does not start and only take up as much as content space
+Mobile navbar
+list-style-type:property
+descendant selectors
+*/
+body {
+    text-align: center;
+}
+.block {
+    background: cyan;
+    color: white;
+    display: block;
+    width: 150px;
+    margin: 20px auto;
+}
+.inline {
+    background: crimson;
+    color: white;
+    display: inline;
+}

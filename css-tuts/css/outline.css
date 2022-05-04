@@ -1,0 +1,28 @@
+/* 
+outline
+offset
+*/
+.buttons {
+    margin: 3rem;
+}
+a {
+    background: #689f3f;
+    text-decoration: none;
+    padding: 1.2rem 1.5rem;
+    color: cyan;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin: 0 20px;
+}
+#one {
+    border: 0.2rem solid #222;
+}
+#two {
+    /* outline-width: 0.5rem;
+    outline-style: solid;
+    outline-color: cyan; */
+    outline: 0.2rem solid cyan;
+    outline-offset: 10px;
+    /* outline-offset: -10px; */
+}
+
